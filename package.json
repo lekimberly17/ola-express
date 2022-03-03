@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lekimberly17/ola-express/issues"
   },
-  "homepage": "https://github.com/lekimberly17/ola-express#readme"
+  "homepage": "https://github.com/lekimberly17/ola-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
